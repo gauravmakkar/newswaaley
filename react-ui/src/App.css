@@ -22,6 +22,16 @@
   color: #f60;
 }
 
+.nav-link{
+  cursor: pointer;
+  color:white;
+  background-color:#3B619F ;
+}
+.nav-link:hover{
+  background-color: white;
+  color:#3B619F;
+}
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
